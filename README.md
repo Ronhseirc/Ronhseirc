@@ -36,7 +36,7 @@
 ## CTF profiles:
 
 <div align="center">
- <img src="https://tryhackme-badges.s3.amazonaws.com/CHrne.png" alt="TryHackMe">
+ <a href="https://tryhackme.com/p/CHrne"><img src="https://tryhackme-badges.s3.amazonaws.com/CHrne.png" alt="TryHackMe"></a>
 </div>
 
 
