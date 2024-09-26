@@ -5,7 +5,7 @@
 </h1>
 
 
-<h1 align="center"><b>Hi , I'm Hseirc</b><img src="" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Hseirc</b></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=04F72A&width=435&lines=Cybersecurity+Analyst;Threat+Intelligence" alt="Typing SVG" /></a>
