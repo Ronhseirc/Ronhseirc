@@ -27,7 +27,7 @@
 - I’m looking to collaborate with cybersecurity python projects.
 - Feel free to connect with me on Linkedin.
 - Continuously learning new cybersecurity technologies every day to enhance my technical skills and stay ahead of evolving threats.
- 
+ <br>
  
 
 
