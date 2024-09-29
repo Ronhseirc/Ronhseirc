@@ -15,7 +15,7 @@
 
 
 ## <picture><img src = "" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://github.com/Ronhseirc/Ronhseirc/tree/main/Assets/tumblr_psvdzrwa1O1qhli70_540-ezgif.com-resize.gif"></picture>
+<picture> <img align="right" src="https://github.com/Ronhseirc/tree/main/Assets/tumblr_psvdzrwa1O1qhli70_540-ezgif.com-resize.gif"></picture>
 
 <br>
 
