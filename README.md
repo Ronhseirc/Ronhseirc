@@ -40,7 +40,7 @@
 </div>
 
 
-# 👨🏻‍💻 Career Path:
+## 👨🏻‍💻 Career Path:
 ![Cybersec](https://img.shields.io/badge/Cybersecurity--Analyst)
 
 
