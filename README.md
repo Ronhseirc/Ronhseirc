@@ -41,7 +41,7 @@
 
 
 ## 👨🏻‍💻 Career Path:
-![Cybersec](https://img.shields.io/badge/Cybersecurity--Analyst)
+![Static Badge](https://img.shields.io/badge/cybersecurity-blue)
 
 
 
