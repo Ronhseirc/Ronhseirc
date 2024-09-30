@@ -38,7 +38,7 @@
 
 
 ## 👨🏻‍💻 Career Path:
-![[Static Badge](https://www.comptia.org/blog/what-is-a-cybersecurity-engineer)](https://img.shields.io/badge/Cybersecurity%20Engineering%20%26%20Operation-brightgreen) ![Static Badge](https://img.shields.io/badge/Cyber%20Defense%20%26%20Analysis-blue) ![Static Badge](https://img.shields.io/badge/Incident%20response%20%26%20Digital%20forensics-red)
+![[https://www.comptia.org/blog/what-is-a-cybersecurity-engineer](https://img.shields.io/badge/Cybersecurity%20Engineering%20%26%20Operation-brightgreen) ![Static Badge](https://img.shields.io/badge/Cyber%20Defense%20%26%20Analysis-blue) ![Static Badge](https://img.shields.io/badge/Incident%20response%20%26%20Digital%20forensics-red)
 
 
 
