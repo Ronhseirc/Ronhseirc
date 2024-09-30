@@ -13,7 +13,7 @@
 
 
 
-**About me**
+## About me
 <picture> <img align="right" src="/Assets/tumblr_psvdzrwa1O1qhli70_540-ezgif.com-resize.gif" width = 300px></picture>
 
 <br>
